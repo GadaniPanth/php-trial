@@ -1,4 +1,4 @@
 # Required
 
-## xampp
-## postman
+## -> xampp - phpMyAmin
+## -> postman
